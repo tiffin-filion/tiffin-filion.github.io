@@ -5,13 +5,13 @@ _right click to open in a new tab_
 * [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
 * [Excursion](https://tiffin-filion.github.io/codecademy/Excursion/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
 * [Colmar Academy]() - Not finished yet
-***
+* * *
 ## Skillcrush
 _right click and open in new tab_
 * [Jubilee](https://tiffin-filion.github.io/skillcrush/jubilee/index.html) - I had a bit of direction, but I started to learn how to develop a static web page from a PSD.
 * [Rogue](https://tiffin-filion.github.io/skillcrush/rogue/index.html)- I learned how to develop a static web page with nothing but a PSD file for guidance.
 * [HTML Final](https://tiffin-filion.github.io/skillcrush/skillcrush-html-final/index.html) - I was given the choice of a few layouts and the PSD for each. I then had to recreate the page and then change the design (colors, fonts, images, content, etc) to my liking. I also added a second page that showed more projects that I’ve completed.
-***
+* * *
 ## freeCodeCamp
 _right click and open in a new tab_
 * [Build a Tribute Page](https://tiffin-filion.github.io/freecodecamp/responsive/tribute/index.html)
@@ -19,7 +19,7 @@ _right click and open in a new tab_
 * [Build a Product Landing Page](https://tiffin-filion.github.io/freecodecamp/responsive/product/index.html)
 * [Build a Technical Documentation Page](https://tiffin-filion.github.io/freecodecamp/responsive/tech-doc/index.html)
 * [Build a Personal Portfolio Page](https://tiffin-filion.github.io/freecodecamp/responsive/portfolio/index.html)
-***
+* * *
 ## PluralSight
 _right click and open in a new tab_
 * [HTML CSS Landing Page](https://tiffin-filion.github.io/pluralsight/html-css-landing-page/index.html)
