@@ -1,4 +1,3 @@
-_right click to open in a new tab_
 ## Codecademy
 ![Codecademy Logo](https://tiffin-filion.github.io/codecademy/Bio/img/logo-codecademy.png)
 * [Bio](https://tiffin-filion.github.io/codecademy/Bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio site. I then changed images, colors, etc to make it more personal.
