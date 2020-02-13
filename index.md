@@ -1,4 +1,5 @@
 ## Codecademy
+| ![Codecademy Logo](https://tiffin-filion.github.io/codecademy/bio/img/logo-codecademy.png) | [Bio](https://tiffin-filion.github.io/codecademy/bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio page. I then changed images, colors, etc to make it more personal.|
 ![Codecademy Logo](https://tiffin-filion.github.io/codecademy/bio/img/logo-codecademy.png)
 * [Bio](https://tiffin-filion.github.io/codecademy/bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio page. I then changed images, colors, etc to make it more personal.
 * [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
