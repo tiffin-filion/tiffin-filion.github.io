@@ -12,8 +12,9 @@
 * [HTML Final](https://tiffin-filion.github.io/skillcrush/101-html-css/final/index.html) - I was given the choice of a few layouts and the PSD for each. I then had to recreate the page and then change the design (colors, fonts, images, content, etc) to my liking. I also added a second page that showed more projects that I’ve completed.
 
 ## freeCodeCamp
-I had a list of items I needed to complete, but had free rein on how it could be styled.
 ![freeCodeCamp Logo](logo-fcc.png)
+
+I had a list of items I needed to complete, but had free rein on how it could be styled.
 * [Build a Tribute Page](https://tiffin-filion.github.io/freecodecamp/responsive/tribute/index.html)
 * [Build a Survey Form](https://tiffin-filion.github.io/freecodecamp/responsive/survey/index.html)
 * [Build a Product Landing Page](https://tiffin-filion.github.io/freecodecamp/responsive/product/index.html)
