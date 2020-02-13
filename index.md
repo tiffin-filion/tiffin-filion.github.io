@@ -23,4 +23,4 @@ I had a list of items I needed to complete, but had free rein on how it could be
 
 ## PluralSight
 ![PluralSight Logo](logo-pluralsight.png)
-* [HTML CSS Landing Page](https://tiffin-filion.github.io/pluralsight/html-css-landing-page/index.html)
+* [HTML CSS Landing Page](https://tiffin-filion.github.io/pluralsight/html-css-landing-page/index.html) - Content was already there, was given steps to follow to add styling.
