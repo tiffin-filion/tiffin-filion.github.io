@@ -1,10 +1,3 @@
-## Codecademy
-![Codecademy Logo](logo-codecademy.png)
-* [Bio](https://tiffin-filion.github.io/codecademy/bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio page. I then changed images, colors, etc to make it more personal.
-* [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
-* [Excursion](https://tiffin-filion.github.io/codecademy/excursion/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
-* [Colmar Academy](https://tiffin-filion.github.io/codecademy/colmar-academy/index.html) - Not finished yet: A project where I had to make a responsive landing page utilizing a wireframe.
-
 ## Skillcrush
 ![Skillcrush Logo](logo-skillcrush.png)
 * [Jubilee](https://tiffin-filion.github.io/skillcrush/101-html-css/jubilee/index.html) - I had a bit of direction, but I started to learn how to develop a static web page from a PSD.
@@ -20,6 +13,13 @@ I had a list of items I needed to complete, but had free rein on how it could be
 * [Build a Product Landing Page](https://tiffin-filion.github.io/freecodecamp/responsive/product/index.html)
 * [Build a Technical Documentation Page](https://tiffin-filion.github.io/freecodecamp/responsive/tech-doc/index.html)
 * [Build a Personal Portfolio Page](https://tiffin-filion.github.io/freecodecamp/responsive/portfolio/index.html)
+
+## Codecademy
+![Codecademy Logo](logo-codecademy.png)
+* [Bio](https://tiffin-filion.github.io/codecademy/bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio page. I then changed images, colors, etc to make it more personal.
+* [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
+* [Excursion](https://tiffin-filion.github.io/codecademy/excursion/index.html) - For this project, I was given a wireframe and I had to match it using HTML & CSS.
+* [Colmar Academy](https://tiffin-filion.github.io/codecademy/colmar-academy/index.html) - Not finished yet: A project where I had to make a responsive landing page utilizing a wireframe.
 
 ## PluralSight
 ![PluralSight Logo](logo-pluralsight.png)
