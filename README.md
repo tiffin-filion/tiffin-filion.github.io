@@ -1,3 +1,1 @@
-Github Pages Landing
-
-Contains links to projects
+# Tiffin's Github.io Landing Page
