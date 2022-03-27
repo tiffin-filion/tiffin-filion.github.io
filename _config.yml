@@ -1,11 +1,20 @@
 ### Tiffin's Github.io Site
 
-theme: jekyll-theme-hacker
-title: Tiffin''s Github.io Site
+title: Tiffin's Github.io Site
 description: Journey to Web Development
+
+baseurl: /gradfolio #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
+email: #
+
 
 highlighter: rouge
 markdown: kramdown
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "https://www.facebook.com/tiffin"
@@ -16,21 +25,39 @@ github: "https://www.github.com/tiffin-filion"
 highlighter: rouge
 markdown: kramdown
 
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
 #collection
 collections:
-projects:
-output: true
-permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 sass:
-sass_dir: /assets/css/_sass
+  sass_dir: /assets/css/_sass
+  style: compressed
 
 include:
-- _pages
+  - _pages
 
 exclude:
-- README.md
-- LICENSE.md
+  - README.md
+  - LICENSE.md
 
 plugins:
-- jekyll-target-blank
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank

@@ -5,39 +5,41 @@ permalink: /projects/
 published: true
 ---
 
+
 <div class="ProjectContainer">
 
-<div class="gallery">
+	<div class="gallery">
 
-{% for project in site.projects %}
 
-{% if project.redirect %}
-<div class="projectTile">
-<a href="{{ project.redirect }}" target="_blank">
-<span>
-<h2>{{ projects.title }}</h2>
-<br/>
-<p>{{ project.description }}</p>
-</span>
-</a>
-</div>
+  {% for project in site.projects %}
 
-{% else %}
+  {% if project.redirect %}
+  <div class="projectTile">
+          <a href="{{ project.redirect }}" target="_blank">
+          <span>
+              <h2>{{ project.title }}</h2>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+  </div>
 
-<div class="projectTile">
-<a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-<span>
-<h2>{{ project.title }}</h2>
-<br/>
-<p>{{ project.description }}</p>
-</span>
-</a>
-</div>
+  {% else %}
 
-{% endif %}
+  <div class="projectTile">
+          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+          <span>
+              <h2>{{ project.title }}</h2>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+  </div>
 
-{% endfor %}
+  {% endif %}
 
-</div>
+  {% endfor %}
+
+	</div>
 
 </div>
