@@ -3,10 +3,9 @@
 title: Tiffin's Github.io Site
 description: Journey to Web Development
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl:  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
-
 
 highlighter: rouge
 markdown: kramdown
@@ -17,10 +16,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "https://www.facebook.com/tiffin"
-twitter: "https://www.twitter.com/tiggertiffin87"
-linkedin: "https://www.linkedin.com/in/tiffin"
-github: "https://www.github.com/tiffin-filion"
+facebook: "tiffin"
+twitter: "tiggertiffin87"
+linkedin: "tiffin"
+github: "tiffin-filion"
 
 highlighter: rouge
 markdown: kramdown
