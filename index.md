@@ -1,10 +1,9 @@
 ---
-layout: about
+layout: default
 permalink: /
 profile:
   align: right
   image: logo.png
-published: true
 ---
 
 Am using multiple learning sites to keep my front end developer skills fresh.  Please visit the projects page to see my work from the following sites.
