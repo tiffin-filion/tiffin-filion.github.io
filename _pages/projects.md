@@ -1,10 +1,8 @@
 ---
-title: Projects
 layout: default
 permalink: /projects/
 ---
 
-<h1>Projects</h1>
 <div class="ProjectContainer">
 
 	<div class="gallery">
