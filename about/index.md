@@ -7,7 +7,7 @@ profile:
 title: About
 ---
 
-<h2>About Tiffin</h2>
+<h1>About Tiffin</h1>
 <p>Future Front End Developer | Current Senior Quality Assurance Analyst (manual & automated)</p>
 <p>My journey started back in the late 90's with the start of the internet. I learned HTML by reading a book. Granted, there wasn't much to it, and there was no CSS at the time.<p>
 <p>Fast forward a few years after high school and I decided to get my bachelor's degree in Web Development. I learned HMTL, CSS, Java and Flash...because all the sites were using Flash at the time. Just before finishing my degree I was hired at a company that allowed me to use a bit of my skills.</p>

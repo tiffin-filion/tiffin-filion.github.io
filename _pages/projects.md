@@ -2,10 +2,9 @@
 title: Projects
 layout: default
 permalink: /projects/
-#published: true
 ---
 
-
+<h1>Projects</h1>
 <div class="ProjectContainer">
 
 	<div class="gallery">
