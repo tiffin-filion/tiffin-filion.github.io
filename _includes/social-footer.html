@@ -26,24 +26,6 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.researchgate -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
-class="social-button researchgate"
-href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-researchgate"></i>
-</a>
-{%- endif -%}
-
-{%- if site.orcid -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
-class="social-button orcid"
-href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-orcid"></i>
-</a>
-{%- endif -%}
-
 {%- if site.twitter -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
 class="social-button twitter"
