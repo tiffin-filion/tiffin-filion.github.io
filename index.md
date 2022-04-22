@@ -7,14 +7,16 @@ profile:
 published: true
 ---
 
+Am using multiple learning sites to keep my front end developer skills fresh.  Please visit the projects page to see my work from the following sites.
+
 ![Skillcrush Logo](assets/images/logo-skillcrush.png)
-[Skillcrush](https://tiffin-filion.github.io/skillcrush) Front End Developer Track
+Skillcrush Front End Developer Track
 
 ![freeCodeCamp Logo](assets/images/logo-fcc.png)
-[freeCodeCamp](https://tiffin-filion.github.io/freecodecamp) Responsive Web Design
+freeCodeCamp Responsive Web Design
 
 ![Codecademy Logo](assets/images/logo-codecademy.png)
-[Codecademy](https://tiffin-filion.github.io/codecademy) Front End Engineer
+Codecademy Front End Engineer
 
 ![Highline Logo](assets/images/logo-highline.png)
-[Highline College](http://chelan.highline.edu~tiffin-filion)(external site) AAS Web Developer
+Highline College AAS Web Developer
