@@ -5,7 +5,7 @@ profile:
   align: right
   image: logo.png
 ---
-<br><br><br>
+<br>
 <h4>Using multiple learning sites to keep my front end developer skills fresh. Please visit the projects page to see my work from the following sites.</h4>
 <br>
 
