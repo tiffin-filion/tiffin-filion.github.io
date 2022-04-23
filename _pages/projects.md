@@ -2,7 +2,7 @@
 layout: default
 permalink: /projects/
 ---
-
+<br>
 <div class="ProjectContainer">
 
 	<div class="gallery">
