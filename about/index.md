@@ -5,7 +5,7 @@ profile:
   align: right
   image: logo.png
 ---
-<br><br><br>
+<br>
 <h1>About Tiffin</h1>
 <h4>Future Front End Developer | Current Senior Quality Assurance Analyst (manual & automated)</h4><br>
 ***
