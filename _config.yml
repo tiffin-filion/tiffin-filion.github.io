@@ -3,16 +3,11 @@
 title: Tiffin's Github.io Site
 description: Journey to Web Development
 
-baseurl:  #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: hello@tiffinity.co #email address
-
 highlighter: rouge
 markdown: kramdown
 
 # Social media links in footer
 facebook: "tiffin.filion"
-twitter: "tiggertiffin87"
 linkedin: "tiffin"
 github: "tiffin-filion"
 
