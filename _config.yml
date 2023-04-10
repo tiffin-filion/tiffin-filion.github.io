@@ -11,14 +11,10 @@ facebook: "tiffin.filion"
 linkedin: "tiffin"
 github: "tiffin-filion"
 
-highlighter: rouge
-markdown: kramdown
-
 #collection
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
 
 sass:
   sass_dir: /assets/css/_sass
